@@ -1,3 +1,4 @@
+// src/controllers/vehiclesController.js
 import { Vehicle } from "../models/Vehicle.js";
 import { Booking } from "../models/Booking.js";
 import { calculateRideDurationHours } from "../utils/rideUtils.js";
